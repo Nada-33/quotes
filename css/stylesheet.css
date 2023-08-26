@@ -1,0 +1,15 @@
+#myBtn:hover
+{
+    background-color: yellowgreen;
+
+}
+p
+{
+    padding: 5px;
+    margin: 5px;
+    font-size: 35px;
+}
+h1
+{   font-size: 80px;
+    font-family: Impact;
+}
